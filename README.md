@@ -8,7 +8,7 @@
 1. Download repository and navigate to it on the terminal
 2. Run the command “mvn test”
 
-#How to run SchubsL, SchubsH, and Deschubs
+# How to run SchubsL, SchubsH, and Deschubs
 1. Download repository and navigate to it on the terminal
 2. cd in src, then main, then java
 3. To compile type javac < SchubsL, SchubsH, or Deschubs >
@@ -18,7 +18,7 @@
 (SchubsH compresses with Huffman)
 (Deschubs uncompresses .ll .hh and .zl files)
 
-#How to run SchubsArc
+# How to run SchubsArc
 1. Download repository and navigate to it on the terminal
 2. cd in src, then main, then java
 3. To compile type javac < SchubsArc>
