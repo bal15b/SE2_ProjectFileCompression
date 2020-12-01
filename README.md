@@ -7,6 +7,7 @@
 # How to run tests
 1. Download repository and navigate to it on the terminal
 2. Run the command “mvn test”
+(Tests make sure the program is working for both valid and invalid inputs, as well as confirming that the programs compress and decompress files properly)
 
 # How to run SchubsL, SchubsH, and Deschubs
 1. Download repository and navigate to it on the terminal
@@ -25,6 +26,3 @@
 4. Place files you want to archive in the folder
 5. To run type java SchubsArc <name of archive file.zl> > <list of text files separated by spaces>
 (SchubsArc will create a .zl archive)
-
-
-
